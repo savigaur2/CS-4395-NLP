@@ -42,7 +42,7 @@ def guessing_game (common_50):
 
     # randomly choose one of the 50 words
     rand = random.choice(common_50)
-    print('REMOVE BEFORE SUBMITTING -- word: ', rand)
+    # print('REMOVE BEFORE SUBMITTING -- word: ', rand)
 
     output = []
     # output to console an underscore space for each letter in the word
