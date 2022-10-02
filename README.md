@@ -26,3 +26,10 @@ You can see the [code here](Homework3/Homework3_sxg180113.py) and a [detailed do
 This notebook demonstrates the uses of ```WordNet``` and ```SentiWordNet``` in text analysis. Specifically, the notebook explores ```synsets``` in ```WordNet``` and ```senti_synsets``` in ```SentiWordNet``` along with part-of-speach tagging and word relations through hyper/hypo/mero/holo/anto-nyms.
 
 You can see the [code here](Homework4/Homework4_sxg180113.pdf) and a [detailed document here](Homework4/Assignment4_Details.md)
+
+## Assignment 5
+This program consists of two parts: language model and language classifications. The language model uses ```bigrams``` and ```unigrams``` from ```nltk``` to creat unigram and bigram dictionaries based on the training data. This part of the program creates separate language models for English, French and Italian which will be used later during the classification phase. The language classifications read in the test file and calculate the probability of each line being either English, Frech or Italian using ```laplace smoothing``` by the following equation: $$ P = \frac{b + 1}{u + V} $$, where b is
+the bigram count, u is the unigram count of the first word in the bigram, and v is the total vocabulary
+size (add the lengths of the 3 unigram dictionaries). This phase also calculates the accuracy of the language models.
+
+You can see the [code here](Homework5/ngrams.py) and a [detailed document here](Homework5/Assignment5_Details.md)
