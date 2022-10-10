@@ -33,3 +33,8 @@ the bigram count, u is the unigram count of the first word in the bigram, and v 
 size (add the lengths of the 3 unigram dictionaries). This phase also calculates the accuracy of the language models.
 
 You can see the [code here](Homework5/ngrams.py) and a [detailed document here](Homework5/Assignment5_Details.md)
+
+## Assignment 6
+This program combines many useful and practical applications of NLP into one project. The program creates a ```web crawler``` using ```BeatifulSoup``` to scrape related urls from the MyAnimeList website. The program scrapes all of the text off the urls and cleans them using ```nltk```'s ```sentence tokenizer``` combined with stopwords and filtering for tabs and new lines. Then, the ```TFIDF``` is used to determine the most important words from all of the urls to be used in a knowledge base for a chatbot which will be developed in the future. You can see a [report document here](Homework6/Report.pdf)
+
+You can see the [code here](Homework6/Homework6_sxg180113.py) and a [detailed document here](Homework6/Assignment6_Details.md)
