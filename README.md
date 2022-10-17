@@ -38,3 +38,8 @@ You can see the [code here](Homework5/ngrams.py) and a [detailed document here](
 This program combines many useful and practical applications of NLP into one project. The program creates a ```web crawler``` using ```BeatifulSoup``` to scrape related urls from the MyAnimeList website. The program scrapes all of the text off the urls and cleans them using ```nltk```'s ```sentence tokenizer``` combined with stopwords and filtering for tabs and new lines. Then, the ```TFIDF``` is used to determine the most important words from all of the urls to be used in a knowledge base for a chatbot which will be developed in the future. You can see a [report document here](Homework6/Report.pdf)
 
 You can see the [code here](Homework6/Homework6_sxg180113.py) and a [detailed document here](Homework6/Assignment6_Details.md)
+
+## Assignment 7
+This document contains 5 parts: a sample sentence for which parsing will be performed, PSG Tree parsing, Dependency Parsing, SRL parsing and a summary paragraph describing the three parsing methods.
+
+You can see the [docuemnt here](Homework7/Homework7_sxg180113.pdf) and a [detailed document here](Homework7/Assignment7_Details.md)
