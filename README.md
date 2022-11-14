@@ -43,3 +43,13 @@ You can see the [code here](Homework6/Homework6_sxg180113.py) and a [detailed do
 This document contains 5 parts: a sample sentence for which parsing will be performed, PSG Tree parsing, Dependency Parsing, SRL parsing and a summary paragraph describing the three parsing methods.
 
 You can see the [docuemnt here](Homework7/Homework7_sxg180113.pdf) and a [detailed document here](Homework7/Assignment7_Details.md)
+
+## Author Attribution
+This program is a notebook which determines the author of the federalist papers using various machine learning modesl such as Logistis Regression, Naive Baiyes and Neural Networks.
+
+You can see the [code here](AuthorAttribution/AuthorAttribution.pdf)
+
+## ACL Paper Review
+This document is a summary for the research paper Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks by Xiaocui Yang, Shi Feng, Yifei Zhang, Daling Wang School of Computer Science and Engineering, Northeastern University, China
+
+You can see the [document here](ACLPaperSummary/ACLPaperSummary)
