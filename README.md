@@ -52,4 +52,4 @@ You can see the [code here](AuthorAttribution/AuthorAttribution.pdf)
 ## ACL Paper Review
 This document is a summary for the research paper Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks by Xiaocui Yang, Shi Feng, Yifei Zhang, Daling Wang School of Computer Science and Engineering, Northeastern University, China
 
-You can see the [document here](ACLPaperSummary/ACLPaperSummary)
+You can see the [document here](ACLPaperSummary/ACLPaperSummary.pdf)
