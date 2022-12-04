@@ -53,3 +53,9 @@ You can see the [code here](AuthorAttribution/AuthorAttribution.pdf)
 This document is a summary for the research paper Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks by Xiaocui Yang, Shi Feng, Yifei Zhang, Daling Wang School of Computer Science and Engineering, Northeastern University, China
 
 You can see the [document here](ACLPaperSummary/ACLPaperSummary.pdf)
+
+
+## Text Classification
+This program attempts to predict spam or ham (not spam) text messages using Deep Learning. The program first preprocesses the data by tokenizing and vectorizing it. Then, the performance of 4 models is comapred: Sequential, RNN, GRU and CNN. Finally, an analysis of the results is given, describing the performance of the 4 models.
+
+You can see the [code here](TextClassification/TextClassifaction.pdf) and a [detailed document here](TextClassification/TextClassification_Details.md)
